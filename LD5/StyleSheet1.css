@@ -1,0 +1,44 @@
+﻿body {
+    background-color: pink;
+    background-size: 100% 100%;
+}
+
+table {
+    border: 1px solid;
+    background-color: mediumpurple;
+}
+
+tr:first-child td {
+    background-color: red;
+    font-weight: bold;
+}
+
+td {
+    padding: 3px;
+    border: 1px solid;
+}
+
+span {
+    font: bold italic 24px arial;
+    color: rebeccapurple;
+}
+
+select {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+}
+
+
+
+.Button {
+    font-size: 20px;
+    height: 30px;
+    width: 70px;
+}
+
+.CenterImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
